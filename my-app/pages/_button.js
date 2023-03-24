@@ -3,6 +3,5 @@ export default function Button() {
         <button>
             Este es el primer botón.
         </button>
-
     )
 }
